@@ -8,5 +8,4 @@ export const Label = styled.label `
 export const Select = styled.select `
     padding: 10px;
     border: none;
-    cursor: pointer;
 `;
