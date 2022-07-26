@@ -1,6 +1,22 @@
-# Getting Started with Create React App
+# Conversor de moedas com api 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Conversor de moedas usa uma API REST, chamada AwesomeAPI[https://docs.awesomeapi.com.br/api-de-moedas](https://docs.awesomeapi.com.br/api-de-moedas), com objetivo de converter valores de uma moeda de origem para uma moeda de destino, utilizando ReactJS e Styled-components.
+
+
+![]()
+
+
+Moedas usadas:
+
+- USD (Dólar americano)
+- BRL (Real brasileiro)
+- CAD (Dólar canadense)
+- RUB (Rublo Russo)
+- EUR (Euro)
+- CNY (Yuan chinês)
+
+Os resultados da conversão são referidos com 2 casas decimais.
+
 
 ## Available Scripts
 
@@ -45,26 +61,3 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
