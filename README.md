@@ -6,6 +6,8 @@ Conversor de moedas usa uma API REST, chamada AwesomeAPI[https://docs.awesomeapi
 ![Preview do conversor](https://raw.githubusercontent.com/alessandradocouto/conversor-moeda-reactjs/master/src/img/Captura%20de%20tela%20em%202022-07-26%2010-31-56.png)
 
 
+Projeto: https://alessandradocouto.github.io/conversor-moeda-reactjs/
+
 Moedas usadas:
 
 - USD (Dólar americano)
